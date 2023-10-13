@@ -9,7 +9,7 @@
   },
   "package": {
     "productName": "ChatGPT Next Web",
-    "version": "2.9.9"
+    "version": "2.9.4"
   },
   "tauri": {
     "allowlist": {
@@ -44,12 +44,6 @@
         "startDragging": true,
         "unmaximize": true,
         "unminimize": true
-      },
-      "fs": {
-        "all": true
-      },
-      "notification": {
-        "all": true
       }
     },
     "bundle": {
@@ -104,7 +98,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "ChatGPT Next Web",
+        "title": "ChatGPT Vow",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"
